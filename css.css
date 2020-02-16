@@ -1,0 +1,71 @@
+div{
+color: red;
+bottom: 200px;
+text-align: center;
+left:500px;
+background-color:black; 
+}
+
+.bl2{
+margin: 50px;
+border:  all;
+border-radius: 20%;
+border-color: blue;
+position:  relative;
+bottom:-200px;
+left:00px;
+background: url(https://images.unsplash.com/photo-1580069200075-5b82016cc83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)no-repeat  center / cover;
+width: 250px;
+
+}
+body{
+margin: 0;
+background: url(https://thumbs.gfycat.com/TenderRealisticHoneybadger-size_restricted.gif) no-repeat center / cover;
+}
+
+.bl2 :hover{background: url(http://risovach.ru/upload/2019/05/mem/krestnyy-otec_207653726_orig_.jpg)no-repeat center / cover ;
+
+}
+.bl3 :hover{background: url(https://avatars.mds.yandex.net/get-pdb/1926096/2052affb-62e9-468e-acf7-4d61f3a120b8/s1200)no-repeat center / cover ;
+
+}
+.bl4 :hover{background: url(http://risovach.ru/upload/2019/05/mem/krestnyy-otec_207653726_orig_.jpg)no-repeat center / cover ;
+
+}
+.bl5 :hover{background: url(http://risovach.ru/upload/2019/05/mem/krestnyy-otec_207653726_orig_.jpg)no-repeat center / cover ;
+
+}
+
+
+
+
+.bl3{
+margin: 50px;
+border:  all;
+border-radius: 20%;
+border-color: blue;
+position:relative; 
+background: url(https://images.unsplash.com/photo-1580069200075-5b82016cc83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)no-repeat  center / cover;
+width: 250px;
+right: 200px;
+}
+
+.bl4{
+margin: 50px;
+border:  all;
+border-radius: 20%;
+border-color: blue;
+background: url(https://images.unsplash.com/photo-1580069200075-5b82016cc83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)no-repeat  center / cover;
+width: 250px;
+position:relative; 
+left: 1500px;
+}
+.bl5{
+margin: 50px;
+border:  all;
+border-radius: 20%;
+border-color: blue;
+background: url(https://images.unsplash.com/photo-1580069200075-5b82016cc83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)no-repeat  center / cover;
+width: 250px;
+position:relative; 
+left: 1000px;}
